@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1515606721 source:c:\users\mc tan4eto\desktop\fmi\sdp\homework\calculator\main.cpp
+	<iostream>
+	"LinkedList.cpp"
+	"Calculator.h"
+
+1515653655 source:c:\users\mc tan4eto\desktop\fmi\sdp\homework\calculator\linkedlist.cpp
+	<iostream>
+
+1515653655 c:\users\mc tan4eto\desktop\fmi\sdp\homework\calculator\linkedlist.cpp
+	<iostream>
+
+1515653701 c:\users\mc tan4eto\desktop\fmi\sdp\homework\calculator\calculator.h
+	<fstream>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+
+1515596156 c:\users\mc tan4eto\desktop\fmi\sdp\homework\calculator\stack.h
+	<iostream>
+
