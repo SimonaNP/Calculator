@@ -2,7 +2,8 @@
 
 getValue - returns the current result from the arithmetic operations
 
-<arithmetic operation> <number> - applies the corresponding arithmetic operation (+, -, *, /) to the current result and the number and changes the value of the current result
+<arithmetic operation> <number> - applies the corresponding arithmetic operation (+, -, *, /) to the 
+current result and the number and changes the value of the current result
   
 listOperations - prints a list with all of the arithmetic  operations we have done so far in the right order
 
